@@ -1,0 +1,19 @@
+body {
+	background-color: pink;
+}
+h1{
+	font-family: 'Staatliches', cursive;color:salmon; font-size: 80px; text-align: center;text-decoration: underline;
+}
+#logo{
+	position:fixed;
+	top:0;
+	left:0;
+	margin:10;
+}
+
+p{
+	font-size: 25px; color:grey;
+}
+a{
+font-size: 80px; font-family: 'staatliches'; color:salmon;
+}
