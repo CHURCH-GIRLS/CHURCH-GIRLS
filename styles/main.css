@@ -26,3 +26,24 @@ p{
 a{
 font-size: 80px; font-family: 'staatliches'; color:salmon;
 }
+
+table {
+	padding-top: 20px;
+	margin-right: center;
+	margin-left: center;
+	margin: 0 auto;
+}
+
+td {
+	width: 2.7vw;
+	height: 2.7vw;
+	background-color: #cdaf95;
+}
+
+.selected  {
+	background-color: red;
+}
+
+.executing {
+	background-color: white;
+}
