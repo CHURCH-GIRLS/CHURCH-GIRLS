@@ -18,12 +18,17 @@ font-size: 3vw; color: #76730D; text-align: center; opacity: 0.3;
 	position:fixed;
 	top:0;
 	left:0;
-	margin:10;
+	margin:0;
 }
 
 p{
-	font-size: 25px; color:grey; text-align: center;
+	font-size: 25px; color:grey; text-align: center; text-decoration-line: line-through; opacity: 0.7;
 }
+
+h5{
+	font-size: 25px; color:grey;
+}
+
 a{
 <<<<<<< HEAD
 font-size: 80px; font-family: 'staatliches'; color:salmon;
