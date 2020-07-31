@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\blog",
     "\\styles"
   ],
   "SelectedNode": "\\styles\\main.css",
+=======
+    ""
+  ],
+>>>>>>> d94627fbea5125d5e017efad781543045dd977c1
   "PreviewInSolutionExplorer": false
 }

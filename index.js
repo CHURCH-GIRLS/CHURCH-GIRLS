@@ -8,7 +8,7 @@ var cellsPHOEBE = document.getElementsByClassName("PHOEBE")
 
 for (var i = 0; i < cells.length; i++) {
 	var cell = cells[i]
-
+	
 	cell.onclick = cellClick
 }
 
