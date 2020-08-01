@@ -1,8 +1,21 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\blog"
   ],
   "SelectedNode": "\\blog\\sprint4-technical.html",
+=======
+<<<<<<< HEAD
+    "",
+    "\\blog",
+    "\\styles"
+  ],
+  "SelectedNode": "\\styles\\main.css",
+=======
+    ""
+  ],
+>>>>>>> d94627fbea5125d5e017efad781543045dd977c1
+>>>>>>> e69e8fb463c174cc31491c7d09c858c305c8516f
   "PreviewInSolutionExplorer": false
 }
