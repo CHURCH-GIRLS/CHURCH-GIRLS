@@ -45,7 +45,7 @@ function advanceStep () {
 	}
 
 	cells[index].classList.add("executing")
-
+	}
 
 
 	// HH1.
